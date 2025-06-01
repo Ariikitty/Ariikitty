@@ -2,7 +2,6 @@
 
 Coding for fun, whenever I feel like it
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariikitty&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariikitty&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
